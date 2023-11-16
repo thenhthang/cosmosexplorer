@@ -15,6 +15,9 @@ export default defineConfig({
   define: {
     'process.env': {}
   },
+  base: '/cosmosexplorer/',
+  transpileDependencies: true,
+  publicPath: process.env.NODE_ENV === "production" ? "/vue-deploy/" : "/",
   plugins: [
     vue({
       template: {
