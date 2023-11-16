@@ -1,0 +1,4 @@
+# These are supported funding model platforms
+
+# github: liangping
+issuehunt: ping-pub # Replace with a single IssueHunt username
