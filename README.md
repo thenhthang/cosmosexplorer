@@ -2,7 +2,7 @@
 
 ![Ping Wallet](./public/logo.svg)
 
-<h1>Ping Dashboard</h1>
+<h1>Vin Dashboard</h1>
 
 **Ping Dashboard is not only an explorer but also a wallet and more ... 🛠**
 
