@@ -17,7 +17,7 @@ export default defineConfig({
   },
   base: '/vue-deploy/',
   transpileDependencies: true,
-  publicPath: process.env.NODE_ENV === "production" ? "/vue-deploy/" : "/",
+  publicPath: "/",
   plugins: [
     vue({
       template: {
